@@ -225,6 +225,9 @@ This mini project enabled the authors to gain hands-on experience with:
 - **Project Report:**  
   [Click Here to View Full Report](https://github.com/MrHAM17/Spotify_Streaming_Analytics/blob/main/1.%20Project%20All%20IMP%20Docs/BE_COMP_C_28_BDA_Mini_Project_Report.pdf)
 
+- **Project Link:**  
+  [Click Here to View Project](https://colab.research.google.com/drive/1zIFXQJSpBfPHnxKHuw8heVPNkartObXM)
+
 ---
 
 ## 🛠️ Installation Guide
